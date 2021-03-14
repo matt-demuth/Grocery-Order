@@ -1,0 +1,6 @@
+﻿  Demuth_Midterm.cpp
+C:\Users\mattd\source\repos\Demuth_Midterm\Demuth_Midterm\Demuth_Midterm.cpp(181,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mattd\source\repos\Demuth_Midterm\Demuth_Midterm\Demuth_Midterm.cpp(194,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mattd\source\repos\Demuth_Midterm\Demuth_Midterm\Demuth_Midterm.cpp(205,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mattd\source\repos\Demuth_Midterm\Demuth_Midterm\Demuth_Midterm.cpp(217,20): warning C4018: '<': signed/unsigned mismatch
+  Demuth_Midterm.vcxproj -> C:\Users\mattd\source\repos\Demuth_Midterm\Debug\Demuth_Midterm.exe
